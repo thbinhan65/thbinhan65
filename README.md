@@ -10,7 +10,12 @@ My name is An, and I am a final-year student at Van Lang University. Through my 
   - **Python**: Data visualization, statistical analysis, data cleaning, working with libraries
   - **Marchine Learning**: Predictive Model Building, Model Evaluation and Optimization
   - **MS Office**: Word, Excel, Power Point
-  
+- Soft Skills
+  - Effective communication
+  - Analytical thinking, situation handling
+  - Design Thinking
+  - Problem-solving skills
+  - Research and self-learning skills
 ## Project
 - **Explore Ecommerce Dataset  -  SQL, BigQuery**
   - Objective: To explore key patterns of an eCommerce dataset by cleaning and extracting data to answer business hypotheses.
