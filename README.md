@@ -3,11 +3,6 @@
 ## About me
 My name is An, and I am a final-year student at Van Lang University. Through my studies and work experience, I have realized that making strategic decisions is a significant challenge for businesses of all sizes. Therefore, I have developed a strong foundation in retail, distribution, customer analysis, and data analysis, along with skills in Excel, SQL, Python, Power BI, and Machine Learning. I can use data to help businesses make informed decisions and drive sustainable growth. My goal is to become a Data Analyst within the next three years and eventually grow into a Business Intelligence expert.
 
-## How to contact me?
-- Call: +84 773 888 669
-- Mail: ngthaibinhan65.work@gmail.com
-- Linkedin: https://www.linkedin.com/in/thban65/
-
 ## Skills
 - Technical Skills:
   - **SQL**: Querying data, data management, Database Design and Construction
@@ -29,3 +24,8 @@ My name is An, and I am a final-year student at Van Lang University. Through my 
 - **Churn predict - Python, MARchine learning**
   - Objective: Use Python and Machine Learning to classify and predict behaviors, habits, transaction times, transaction areas, etc. Develop appropriate promotion strategies based on the behavior of the churned group.
   - Technique: Segment customers into two groups: churn and not churn, based on previous behaviors and analysis. Build a Machine Learning model to predict churned users.
+
+## How to contact me?
+- Call: +84 773 888 669
+- Mail: ngthaibinhan65.work@gmail.com
+- Linkedin: https://www.linkedin.com/in/thban65/
