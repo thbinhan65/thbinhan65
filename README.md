@@ -1,7 +1,7 @@
-## 🎉Hello!! Welcome to my the Portfolio!🎉
+## Hello!! Welcome to my the Portfolio!
 
 ## About me
-My name is An, and I am a final-year student at Van Lang University. Through my studies and work experience, I have realized that making strategic decisions is a significant challenge for businesses of all sizes. Therefore, I have developed a strong foundation in retail, distribution, customer analysis, and data analysis, along with skills in Excel, SQL, Python, Power BI, and Machine Learning. I can use data to help businesses make informed decisions and drive sustainable growth. My goal is to become a Data Analyst within the next three years and eventually grow into a Business Intelligence expert.
+My name is An, and I am a junior student at Van Lang University. Through my studies and work experience, I have realized that making strategic decisions is a significant challenge for businesses of all sizes. Therefore, I have developed a strong foundation in retail, distribution, customer analysis, and data analysis, along with skills in Excel, SQL, Python, Power BI, and Machine Learning. I can use data to help businesses make informed decisions and drive sustainable growth. My goal is to become a Data Analyst within the next three years and eventually grow into a Business Intelligence expert.
 
 ## Skills
 - Technical Skills:
