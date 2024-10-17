@@ -26,7 +26,7 @@ My name is An, and I am a junior student at Van Lang University. Through my stud
 - **[SuperStore  -  Python](https://github.com/thbinhan65/SuperStore---Python)**
   - Objective: enhance business performance understanding and strategic decision-making for managers, measured by improved market expansion and product selection, by creating a dashboard
   - Technique: Utilized Design Thinking to break down these concerns and used Power BI to visualize the data
-- **[Churn predict - Python, MARchine learning](https://github.com/thbinhan65/Churn-behavior-predict---Python-Marchine-learning)**
+- **[Churn predict - Python, Marchine learning](https://github.com/thbinhan65/Churn-behavior-predict---Python-Marchine-learning)**
   - Objective: Use Python and Machine Learning to classify and predict behaviors, habits, transaction times, transaction areas, etc. Develop appropriate promotion strategies based on the behavior of the churned group.
   - Technique: Segment customers into two groups: churn and not churn, based on previous behaviors and analysis. Build a Machine Learning model to predict churned users.
 
