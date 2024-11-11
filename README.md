@@ -17,7 +17,7 @@ My name is An, and I am a junior student at Van Lang University. Through my stud
   - Problem-solving skills
   - Research and self-learning skills
 ## Project
-- **[Explore Ecommerce Dataset  -  SQL, BigQuery](https://github.com/thbinhan65/Explore-Ecommerce-Dataset---SQL-BigQuery)**
+- **[Website Ecommerce Performance  -  SQL, BigQuery](https://github.com/thbinhan65/Explore-Ecommerce-Dataset---SQL-BigQuery)**
   - Objective: To explore key patterns of an eCommerce dataset by cleaning and extracting data to answer business hypotheses.
   - Technique: Used SQL for data processing, problem-solving skills for analysis, calculating key metrics like visits, pageviews, bounce rate, revenue, and transaction averages across various timeframes and traffic sources.
 - **[AdventureWorks  -  Power BI](https://github.com/thbinhan65/AdventureWorks---POWER-BI)**
