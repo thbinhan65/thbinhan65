@@ -16,6 +16,7 @@ My name is An, and I am a 4th-year student at Van Lang University. Through my st
   - Design Thinking
   - Problem-solving skills
   - Research and self-learning skills
+  - Data Storytelling
 ## Project
 - **[Website Ecommerce Performance  -  SQL, BigQuery](https://github.com/thbinhan65/Explore-Ecommerce-Dataset---SQL-BigQuery)**
   - Objective: To explore key patterns of an eCommerce dataset by cleaning and extracting data to answer business hypotheses.
