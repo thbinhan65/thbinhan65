@@ -9,7 +9,7 @@ My name is An, and I am a 4th-year student at Van Lang University. Through my st
   - **Power BI**: Data modeling, DAX functions, data visualization, report building.
   - **Python**: Data visualization, statistical analysis, data cleaning, working with libraries
   - **Marchine Learning**: Predictive Model Building, Model Evaluation and Optimization
-  - **MS Office**: Word, Excel, Power Point
+  - **MS Office**: Word, Power Point, Excel with advanced functions, PivotTable, charts, lookup functions, Solver, What-If Analysis
 - Soft Skills
   - Effective communication
   - Analytical thinking, situation handling
