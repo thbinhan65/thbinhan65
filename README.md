@@ -5,7 +5,7 @@ My name is An, and I am a 4th-year student at Van Lang University. Through my st
 
 ## Skills
 - Technical Skills:
-  - **SQL**: Querying data, data management, Database Design and Construction
+  - **SQL**: Querying data, data management (DML & DDL)
   - **Power BI**: Data modeling, DAX functions, data visualization, report building.
   - **Python**: Data visualization, statistical analysis, data cleaning, working with libraries
   - **Marchine Learning**: Predictive Model Building, Model Evaluation and Optimization
